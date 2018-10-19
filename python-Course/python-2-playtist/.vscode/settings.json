@@ -1,0 +1,14 @@
+{
+    "python.linting.enabled": false,
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
+    "cSpell.language": "en,en-GB,en-US",
+    "cSpell.words": [
+        "even",
+        "ipsum",
+        "maher",
+        "ninjarize",
+        "nums",
+        "origial",
+        "squared"
+    ]
+}
